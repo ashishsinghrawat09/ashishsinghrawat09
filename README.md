@@ -13,7 +13,7 @@ This profile is a snapshot of my progress, my current explorations, and my commi
 ## 🎯 Current Focus
 
 - 🔭 Working on: **Foundational projects to solidify my understanding of web development concepts.** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Advanced JavaScript, React, and delving into cloud fundamentals (AWS).** <!-- TODO: Add what you're currently learning -->
+- 🌱 Learning: ** JavaScript, React, and delving into cloud fundamentals (AWS).** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Beginner-friendly Open Source Projects or educational coding challenges.**
 - 💬 Ask me about: **My learning journey, front-end development basics, or exciting new tech articles I've read!** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I love to unwind by exploring new hiking trails and capturing nature's beauty through photography!** <!-- TODO: Add a fun fact -->
@@ -37,11 +37,7 @@ I'm actively building my toolkit and gaining proficiency across various domains.
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 <!-- TODO: Add your actual frameworks -->
 
-### ☁️ Cloud & DevOps (Learning)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<!-- TODO: Add your cloud/devops tools -->
-
+ 
 ### 🗄️ Databases (Exploring)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -150,8 +146,7 @@ I'm always open to discussing new ideas, collaborating on projects, or just chat
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your portfolio -->
+ [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your portfolio -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your email -->
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) <!-- TODO: Add your blog -->
 
