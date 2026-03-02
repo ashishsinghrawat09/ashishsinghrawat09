@@ -1,4 +1,4 @@
- # Hi there! 👾 I'm Ashish Rawat
+ # Hi there! 👾 I'm Ashish Singh Rawat
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Software+Developer;Passionate+Learner;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -10,12 +10,12 @@ This profile is a snapshot of my progress, my current explorations, and my commi
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus --
 
 - 🔭 Working on: **Foundational projects to solidify my understanding of web development concepts.** <!-- TODO: Add your current main project -->
-- 🌱 Learning: ** JavaScript, React, and delving into cloud fundamentals (AWS).** <!-- TODO: Add what you're currently learning -->
+- 🌱 Learning: ** JavaScript, React, and delving into cloud fundamentals (AWS).** -- TODO: DSA in java, full stack development
 - 👯 Looking to collaborate on: **Beginner-friendly Open Source Projects or educational coding challenges.**
-- 💬 Ask me about: **My learning journey, front-end development basics, or exciting new tech articles I've read!** <!-- TODO: Add your areas of expertise -->
+- 💬 Ask me about: **My learning journey, front-end development basics, or exciting new tech articles I've read!** -- TODO: languages:C/C++,python,java,html,css,basic funadlamental of computer science..
 - ⚡ Fun fact: **I love to unwind by exploring new hiking trails and capturing nature's beauty through photography!** <!-- TODO: Add a fun fact -->
 
 ---
@@ -146,14 +146,11 @@ I'm always open to discussing new ideas, collaborating on projects, or just chat
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) -- TODO:   https://www.linkedin.com/in/ashish-rawat-058780323/ 
- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your portfolio -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your email -->
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) <!-- TODO: Add your blog -->
-
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -- TODO: ashishrawat542585@gmail.com
+ 
 ### 📱 Social Presence
 [![GitHub followers](https://img.shields.io/github/followers/Ashishrawat03?style=social)](https://github.com/Ashishrawat03)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle -->
-
+ 
 </div>
 
 ---
