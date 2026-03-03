@@ -114,10 +114,9 @@ Here are some of the initial projects I'm working on or have completed, demonstr
 ---
 
 ## 🎓 Certifications & Achievements
-<!-- TODO: Add your certifications, courses, achievements -->
-- 📜 **[Course Name]**: Introduction to Programming (Coursera)
-- 📊 **[Platform]**: JavaScript Fundamentals Badge (FreeCodeCamp)
-- 📝 Currently pursuing: **AWS Cloud Practitioner Certification**
+<!-- TODO: Add your certifications,1. DCA(diploma in comuter application), achievements -->
+- 📜 **[Course Name]**:  AI generative course(Skilsup)
+- 📝 Currently pursuing: ** BTech CSE from Uttaranchal University**
 
 ## 📝 Latest Blog Posts
 <!-- TODO: Add your recent blog posts -->
@@ -125,7 +124,7 @@ Here are some of the initial projects I'm working on or have completed, demonstr
 - 🔧 [Understanding JavaScript DOM Manipulation: A Beginner's Guide](blog-link)
 - ☁️ [Why I'm Excited About Cloud Computing: An Introduction to AWS](blog-link)
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 <!-- TODO: Update with your current year goals -->
 - 🚀 Complete 5 more personal projects demonstrating new skills
 - 📚 Master React.js and build a full-stack application
@@ -148,8 +147,8 @@ I'm always open to discussing new ideas, collaborating on projects, or just chat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) -- TODO:   https://www.linkedin.com/in/ashish-rawat-058780323/ 
  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -- TODO: ashishrawat542585@gmail.com
  
-### 📱 Social Presence
-[![GitHub followers](https://img.shields.io/github/followers/Ashishrawat03?style=social)](https://github.com/Ashishrawat03)
+### 📱 leetcode
+[![leetcode followers](https://leetcode.com/u/ashurawat03/)
  
 </div>
 
