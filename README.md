@@ -148,8 +148,9 @@ I'm always open to discussing new ideas, collaborating on projects, or just chat
  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -- TODO: ashishrawat542585@gmail.com
  
 ### 📱 leetcode
- ![LeetCode]( ![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
-)](https://leetcode.com/u/ashurawat03/)
+ ![LeetCode]( <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="10" height="10">
+)
+(https://leetcode.com/u/ashurawat03/)
 
  
 </div>
