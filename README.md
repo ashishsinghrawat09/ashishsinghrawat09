@@ -56,19 +56,19 @@ As I'm just beginning my journey, these stats reflect my initial steps. I'm exci
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashishrawat03&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishsinghrawat09&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
 ### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishrawat03&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username= ashishsinghrawat09&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🔥 Streak Statistics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishrawat03&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user= ashishsinghrawat09&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/Ashishrawat03" alt="Contribution Calendar" width="100%"/>
+<img src="https://ghchart.rshah.org/409ba5/ ashishsinghrawat09" alt="Contribution Calendar" width="100%"/>
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
@@ -93,8 +93,8 @@ Here are some of the initial projects I'm working on or have completed, demonstr
 
 ---
 
-### 🔥 [Project Name 2: Weather Dashboard](https://github.com/Ashishrawat03/weather-dashboard) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashishrawat03&repo=weather-dashboard&theme=tokyonight)](https://github.com/Ashishrawat03/weather-dashboard)
+### 🔥 [Project Name 2: Weather Dashboard](https://github.com/ ashishsinghrawat09/weather-dashboard) <!-- TODO: Replace with actual project -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username= ashishsinghrawat09&repo=weather-dashboard&theme=tokyonight)](https://github.com/Ashishrawat03/weather-dashboard)
 
 **Tech Stack:** React • OpenWeatherMap API
 **Status:** 🚧 In Development | 💡 API Integration Practice
@@ -102,8 +102,8 @@ Here are some of the initial projects I'm working on or have completed, demonstr
 
 ---
 
-### ⚡ [Project Name 3: E-commerce Frontend Prototype](https://github.com/Ashishrawat03/ecommerce-frontend) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashishrawat03&repo=ecommerce-frontend&theme=tokyonight)](https://github.com/Ashishrawat03/ecommerce-frontend)
+### ⚡ [Project Name 3: E-commerce Frontend Prototype](https://github.com/ ashishsinghrawat09/ecommerce-frontend) <!-- TODO: Replace with actual project -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username= ashishsinghrawat09&repo=ecommerce-frontend&theme=tokyonight)](https://github.com/ ashishsinghrawat09/ecommerce-frontend)
 
 **Tech Stack:** HTML • CSS (Flexbox/Grid) • JavaScript
 **Status:** 🏗️ Building | ✨ UI/UX Focus
@@ -148,7 +148,8 @@ I'm always open to discussing new ideas, collaborating on projects, or just chat
  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -- TODO: ashishrawat542585@gmail.com
  
 ### 📱 leetcode
-[![leetcode followers](https://leetcode.com/u/ashurawat03/)
+ ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/ashurawat03/) https://leetcode.com/u/ashurawat03/
+
  
 </div>
 
@@ -164,7 +165,7 @@ If you found my projects helpful or learned something from my code, consider sup
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
 
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Ashishrawat03) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ ashishsinghrawat09) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
 
 </div>
 
@@ -175,7 +176,7 @@ If you found my projects helpful or learned something from my code, consider sup
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashishrawat03&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username= ashishsinghrawat09&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
   ### 🚀 "Code is poetry, and every commit tells a story"
 
