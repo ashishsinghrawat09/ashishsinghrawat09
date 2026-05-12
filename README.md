@@ -22,7 +22,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href= www.linkedin.com/in/ashish-rawat-058780323" target="blank">
+<a href= "https://linkedin.com/ashish-rawat-058780323" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 
