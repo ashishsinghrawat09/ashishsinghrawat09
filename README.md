@@ -1,186 +1,102 @@
- # Hi there! 👾 I'm Ashish Singh Rawat
+<h1 align="center">Hi 👋, Ashish Singh Rawat</h1>
+<h3 align="center">🚀 Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Software+Developer;Passionate+Learner;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
-
-## 🚀 Welcome to My Digital Hub!
-
-I'm Ashish Rawat, an enthusiastic and highly motivated aspiring software developer eager to build, learn, and contribute. My journey into the world of code is driven by curiosity and a desire to create impactful solutions. I believe in the power of technology to solve real-world problems and am constantly exploring new tools and concepts to expand my capabilities.
-
-This profile is a snapshot of my progress, my current explorations, and my commitment to continuous growth in the development landscape. Let's connect and build something amazing together!
-
----
-
-## 🎯 Current Focus --
-
-- 🔭 Working on: **Foundational projects to solidify my understanding of web development concepts.** <!-- TODO: Add your current main project -->
-- 🌱 Learning: ** JavaScript, React, and delving into cloud fundamentals (AWS).** -- TODO: DSA in java, full stack development
-- 👯 Looking to collaborate on: **Beginner-friendly Open Source Projects or educational coding challenges.**
-- 💬 Ask me about: **My learning journey, front-end development basics, or exciting new tech articles I've read!** -- TODO: languages:C/C++,python,java,html,css,basic funadlamental of computer science..
-- ⚡ Fun fact: **I love to unwind by exploring new hiking trails and capturing nature's beauty through photography!** <!-- TODO: Add a fun fact -->
-
----
-
-## 🛠️ Technology Arsenal
-
-I'm actively building my toolkit and gaining proficiency across various domains. Here's a glimpse into the technologies I'm currently working with or keen to master:
-
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!-- TODO: Add/remove languages based on your actual skills -->
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-<!-- TODO: Add your actual frameworks -->
-
- 
-### 🗄️ Databases (Exploring)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-<!-- TODO: Add your databases -->
-
----
-
-## 📊 GitHub Analytics Dashboard
-
-As I'm just beginning my journey, these stats reflect my initial steps. I'm excited to see these grow as I continue to learn and contribute!
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashishrawat03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishrawat03&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishsinghrawat09&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Java+%7C+Python+%7C+JavaScript;Always+Learning+New+Things" />
 </p>
 
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username= ashishsinghrawat09&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+---
 
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user= ashishsinghrawat09&theme=tokyonight&hide_border=true"/>
+# 💫 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🌱 Currently working on web development, Java, DSA .
+- 💻 Interested in *Web Development & Software Engineering*
+- 🚀 Building projects to improve my skills
+- 🤝 Looking to collaborate on *Open Source Projects*
+- ⚡ Fun fact: *I love solving coding problems*
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ashish-rawat-058780323" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="https://github.com/ashishsinghrawat09" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+</a>
+
+<a href="mailto:ashishrawat542585@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
+</a>
 </p>
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/ ashishsinghrawat09" alt="Contribution Calendar" width="100%"/>
+---
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section to show your latest activity! -->
-- ⚙️ Currently setting up automation for my README to track recent activity! Stay tuned!
-<!--END_SECTION:activity-->
+# 🛠️ Languages and Tools
+
+<p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/htm/htm-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/CPP/CPP-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
-## 🏗️ Featured Projects
+# 📊 GitHub Stats
 
-Here are some of the initial projects I'm working on or have completed, demonstrating my foundational skills and learning journey. More exciting projects are on the way!
-
-<div align="center">
-
-### 🌟 [Project Name 1: Simple Todo App](https://github.com/Ashishrawat03/simple-todo-app) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashishrawat03&repo=simple-todo-app&theme=tokyonight)](https://github.com/Ashishrawat03/simple-todo-app)
-
-**Tech Stack:** HTML • CSS • JavaScript
-**Status:** ✅ Complete | 🌱 Learning Project
-*A basic interactive to-do list application to practice DOM manipulation and fundamental JavaScript concepts.*
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
-### 🔥 [Project Name 2: Weather Dashboard](https://github.com/ ashishsinghrawat09/weather-dashboard) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username= ashishsinghrawat09&repo=weather-dashboard&theme=tokyonight)](https://github.com/Ashishrawat03/weather-dashboard)
+# 📈 Most Used Languages
 
-**Tech Stack:** React • OpenWeatherMap API
-**Status:** 🚧 In Development | 💡 API Integration Practice
-*An application to display real-time weather information using a third-party API, focusing on React components and state management.*
-
----
-
-### ⚡ [Project Name 3: E-commerce Frontend Prototype](https://github.com/ ashishsinghrawat09/ecommerce-frontend) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username= ashishsinghrawat09&repo=ecommerce-frontend&theme=tokyonight)](https://github.com/ ashishsinghrawat09/ecommerce-frontend)
-
-**Tech Stack:** HTML • CSS (Flexbox/Grid) • JavaScript
-**Status:** 🏗️ Building | ✨ UI/UX Focus
-*A responsive static e-commerce product listing page, emphasizing modern CSS layouts and basic interactivity.*
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
-
-## 🎓 Certifications & Achievements
-<!-- TODO: Add your certifications,1. DCA(diploma in comuter application), achievements -->
-- 📜 **[Course Name]**:  AI generative course(Skilsup)
-- 📝 Currently pursuing: ** BTech CSE from Uttaranchal University**
-
-## 📝 Latest Blog Posts
-<!-- TODO: Add your recent blog posts -->
-- 📖 [My First Steps into Web Development: A Learning Journey](blog-link)
-- 🔧 [Understanding JavaScript DOM Manipulation: A Beginner's Guide](blog-link)
-- ☁️ [Why I'm Excited About Cloud Computing: An Introduction to AWS](blog-link)
-
-## 🎯 2026 Goals
-<!-- TODO: Update with your current year goals -->
-- 🚀 Complete 5 more personal projects demonstrating new skills
-- 📚 Master React.js and build a full-stack application
-- 🌟 Contribute to my first open source project
-- 📝 Write 3+ technical blog posts sharing my learning experiences
-
-## 🏆 Open Source Contributions
-<!-- TODO: Highlight your major contributions -->
-- 💡 Actively seeking my first open-source contribution!
-- 📚 Currently exploring documentation sprints and beginner-friendly issues.
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-I'm always open to discussing new ideas, collaborating on projects, or just chatting about technology!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) -- TODO:   https://www.linkedin.com/in/ashish-rawat-058780323/ 
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -- TODO: ashishrawat542585@gmail.com
- 
-### 📱 leetcode
- ![LeetCode]( <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="10" height="10">
-)
-(https://leetcode.com/u/ashurawat03/)
 
  
-</div>
+
+# 🔥 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
-## ☕ Support My Work
+# ✨ Random Dev Quote
 
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ ashishsinghrawat09) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
-
-</div>
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username= ashishsinghrawat09&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+# 👀 Profile Views
 
-  ### 🚀 "Code is poetry, and every commit tells a story"
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
-</div>
+---
+
+<p align="center">
+  💖 Thanks for visiting my profile 💖
+</p>
